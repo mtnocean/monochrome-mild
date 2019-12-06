@@ -1,0 +1,51 @@
+{
+	"name": "monochrome-mild",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#101010",
+		"editor.foreground": "#d0d0d0",
+		"editor.selectionBackground": "#554444",
+		"editor.inactiveSelectionBackground": "#3a3533",
+		"editor.findMatchBackground": "#d1c00000",
+		"editor.findMatchBorder": "#d1c000",
+		"editor.hoverHighlightBackground": "#333673",
+		"editor.lineHighlightBackground": "#222222",
+		"editorCursor.foreground": "#efdc0b",
+		"editorWhitespace.foreground": "#2f2f2f",
+		"editorBracketMatch.border": "#9c8f01",
+		"statusBar.background": "#252526",
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#8c8885"
+			}
+		},
+		{
+			"scope": "token.info-token",
+			"settings": {
+				"foreground": "#6796e6"
+			}
+		},
+		{
+			"scope": "token.warn-token",
+			"settings": {
+				"foreground": "#cd9731"
+			}
+		},
+		{
+			"scope": "token.error-token",
+			"settings": {
+				"foreground": "#f44747"
+			}
+		},
+		{
+			"scope": "token.debug-token",
+			"settings": {
+				"foreground": "#b267e6"
+			}
+		}
+	]
+}

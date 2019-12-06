@@ -1,0 +1,21 @@
+{
+    "name": "monochrome-mild",
+    "displayName": "Monochrome-Mild",
+    "description": "Monochrome by Chris Hines modified by Paul Russo to be more mild",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Monochrome Mild",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monochrome-mild-color-theme.json"
+            }
+        ]
+    }
+}
