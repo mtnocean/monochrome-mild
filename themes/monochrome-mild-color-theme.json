@@ -12,7 +12,7 @@
 		"editor.lineHighlightBackground": "#222222",
 		"editorCursor.foreground": "#efdc0b",
 		"editorWhitespace.foreground": "#2f2f2f",
-		"editorBracketMatch.border": "#9c8f01",
+		"editorBracketMatch.border": "#d3c101",
 		"statusBar.background": "#252526",
 	},
 	"tokenColors": [
